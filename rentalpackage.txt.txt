@@ -1,0 +1,4 @@
+1,Queen Storage bed,1|2|3,12000,true
+2,Study Desk with chair,4|5,4000,true
+3,Single bedroom,6|7|8,8000,false
+4,Seater living room,7|9|10,9000,true

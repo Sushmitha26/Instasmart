@@ -1,0 +1,10 @@
+1,Queen bed,Edra,Bedding,true
+2,QueenBedsheets,Edra,Bedding,true
+3,Pillow,Edra,Bedding,true
+4,Study Desk,Furic,Furniture,true
+5,Chair,Furic,Furniture,true
+6,single Bed,Ardit,Bedding,false
+7,Single bedsheet,Ardit,Bedding,false
+8,Pillow,Ardit,Bedding,false
+9,Seater couch,prim,Furniture,true
+10,cushions,prim,Furniture,true
